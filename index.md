@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Peru
-tags: example-tag
+tags: Peru Chapter
 level: 0
 
 region: Latin America
