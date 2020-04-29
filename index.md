@@ -1,8 +1,8 @@
---
+---
 
 layout: col-sidebar
 title: OWASP Perú
-tags: example-tag
+tags: chapter
 level: 0
 
 region: South America
