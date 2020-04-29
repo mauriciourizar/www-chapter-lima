@@ -1,33 +1,16 @@
----
+--
 
 layout: col-sidebar
-title: OWASP Peru
-tags: Peru Chapter
+title: OWASP vina del mar
+tags: example-tag
 level: 0
 
-region: Latin America
+region: South America
 
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
-
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
 ##Welcome
 El Proyecto Abierto de Seguridad de Aplicaciones Web (OWASP), es una comunidad de nivel mundial abierta y libre, enfocada en mejorar la seguridad en las aplicaciones de software. Nuestra misión es hacer la seguridad en aplicaciones "visible", de manera que las organizaciones pueden hacer decisiones informadas sobre los riesgos en la seguridad de aplicaciones
 
