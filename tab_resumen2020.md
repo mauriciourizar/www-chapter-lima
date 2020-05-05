@@ -19,7 +19,6 @@ tags: Peru
 
 ![Peru](https://pbs.twimg.com/media/DaCL4SXX4AAXmmz?format=jpg&name=900x900)
 
-![Peru](https://pbs.twimg.com/media/Db6qkEaUQAEYBT6?format=jpg&name=large)
 
 <br>
 
