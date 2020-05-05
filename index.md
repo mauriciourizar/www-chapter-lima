@@ -9,7 +9,6 @@ region: South America
 
 
 ---
-![Peru](assets/images/logo.jpg)
 
 <p align="center">
   <img src="assets/images/logo.jpg">
