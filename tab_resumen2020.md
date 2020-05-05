@@ -7,7 +7,11 @@ order: 3
 tags: Peru
 ---
 
-# Eventos
+# Proximos Eventos
+
+Muy Pronto
+
+## Eventos Anterioes
 
 * [OWASP Latam Tour 2019 - Perú.](https://twitter.com/OWASP_Peru/status/1127392848196788224)
 
@@ -24,6 +28,6 @@ tags: Peru
 ![Peru](https://pbs.twimg.com/media/CfYdRllWsAAELe4?format=jpg&name=medium)
 
 
-## Eventos virtuales por CODVID-19
+## Eventos Virtuales
 
 Muy pronto.
