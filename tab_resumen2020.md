@@ -14,11 +14,15 @@ tags: Peru
 ![Peru](https://pbs.twimg.com/profile_banners/322443324/1555721486/1500x500)
 
 * OWASP Latam Tour 2018 - Perú.
+
 ![Peru](https://pbs.twimg.com/media/DaCL4SXX4AAXmmz?format=jpg&name=900x900)
+
 ![Peru](https://pbs.twimg.com/media/Db6qkEaUQAEYBT6?format=jpg&name=large)
 
 * Owasp Latam Tour 2016 - Perú.
+
 ![Peru](https://pbs.twimg.com/media/CfYdRllWsAAELe4?format=jpg&name=medium)
+
 
 ## Eventos virtuales por CODVID-19
 
