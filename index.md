@@ -11,7 +11,7 @@ region: South America
 ---
 
 <p align="center">
-  <img width="850" height="293" src="assets/images/logo.jpg">
+  <img width="770" height="250" src="assets/images/logo.jpg">
 </p>
 
 El capítulo de OWASP Perú se reúne actualmente de forma trimestral. Somos un grupo de personas que compartimos la pasión por la de seguridad de muchas formas y áreas diferentes de la industria. Nuestro capítulo actual incluye pentesters, desarrolladores, gerentes de proyectos, ingenieros y algunos estudiantes universitarios. Damos la bienvenida a cualquiera que esté interesado en aprender sobre la seguridad de las aplicaciones web o cualquiera que desee unirse. Venga y acompañenos en una reunión, encontrará todos los niveles de conocimiento y habilidades, así que no sea tímido incluso si actualmente no conoce el tema sera siempre bien recibido.
