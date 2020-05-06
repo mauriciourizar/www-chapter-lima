@@ -11,7 +11,7 @@ tags: Peru
 
 Muy Pronto
 
-## Eventos Anterioes
+## Eventos Anteriores
 
 * [OWASP Latam Tour 2019 - Perú.](https://twitter.com/OWASP_Peru/status/1127392848196788224)
 
