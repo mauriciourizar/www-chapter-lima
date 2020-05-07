@@ -70,4 +70,20 @@ tags: Peru
 
   ![Peru](assets/images/detalles-jornada-2015.png)
 
+## Eventos 2014
+
+* Owasp Latam Tour 2014 - Perú.
+
+  <center>
+	<img src="assets/images/Latam_logo_2014.jpg">
+  </center>
+
+  <center>
+	<img src="detalles-jornada-2014-1.png">
+  </center>
+  <center>
+	<img src="detalles-jornada-2014-2.png">
+  </center>
+
+
 
