@@ -129,7 +129,7 @@ tags: Peru
   </center>
 
   <center>
-	<img src="assets/images/LATAM_TOUR-2012.JPG">
+	<img src="assets/images/LATAM_TOUR-2012.JPG"><br>
   </center>
 
 ## Eventos 2011
