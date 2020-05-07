@@ -41,7 +41,8 @@ tags: Peru
 ## Eventos 2016
 
 * Owasp Latam Tour 2016 - Perú.
-  * Talleres:
+
+  **TALLERES:**
     * Metasploit de la A a la Z en 8 horas (Mauricio Urizar)
     * De 0 a Ninja con Kali Linux (Jaime Andrés Restrepo)
 
