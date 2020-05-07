@@ -11,6 +11,7 @@ region: South America
 ---
 <br />
 <p align="center">
+  <br />
   <img width="750" height="240" src="assets/images/logo.jpg">
 </p>
 <br />
