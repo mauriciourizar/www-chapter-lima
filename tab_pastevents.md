@@ -128,7 +128,7 @@ tags: Peru
 	<img src="assets/images/Latam_logo_2012.jpg">	
   </center>
 
-  <br>
+  <br />
 
   <center>
 	<img src="assets/images/LATAM_TOUR-2012.JPG">
