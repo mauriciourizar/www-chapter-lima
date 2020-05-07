@@ -16,77 +16,99 @@ tags: Peru
 
 ![Peru](https://pbs.twimg.com/profile_banners/322443324/1555721486/1500x500)
 
-<table style="width:90%" bgcolor="#CCCCEE" align="center">
+<table style="vertical-align:top;width:90%;background-color:#white;padding:10px;border:1px solid silver;" cellspacing="5" align="center">
 <tr>
-<td colspan="0" style="width:25%" valign="middle" height="30" bgcolor="#CCCCEE" align="center"> <b>Tema</b>
-</td>
-<td colspan="0" style="width:25%" valign="middle" height="30" bgcolor="#CCCCEE" align="center"> <b>Expositor</b>
-</td>
-<td colspan="0" style="width:50%" valign="middle" height="30" bgcolor="#CCCCEE" align="center"> <b>Detalles</b>
+<td colspan="6" style="width:90%" valign="middle" bgcolor="#CCCCEE" align="center" height="40"> <b>DETALLES DE LA JORNADA</b>
 </td></tr>
 <tr>
-<td colspan="0" style="width:25%" valign="middle" height="30" bgcolor="#EEEEEE" align="center"> <a rel="nofollow" class="external text" href="https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project">OWASP WebScarab.</a>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" height="30"> <b> Horario </b>
 </td>
-<td colspan="0" style="width:25%" valign="middle" height="30" bgcolor="#EEEEEE" align="center"> <a rel="nofollow" class="external text" href="https://twitter.com/Alonso_ReYDeS">Alonso Eduardo Caballero Quezada</a>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#CCCCEE" align="center" height="30"> <b>Tema</b>
 </td>
-<td colspan="0" style="width:50%" valign="middle" height="30" bgcolor="#EEEEEE" align="left"> OWASP WebScarab es un Framework para analizar aplicaciones web que se comunican utilizando los protocolos HTTP/HTTPS. Su uso más común es como un Proxy de Interceptación, el cual permite revisar y modificar las peticiones creadas por el navegador antes de ser enviados al servidor, además de revisar y modificar las respuestas devueltas antes de ser recibidas por el navegador. Contiene varios modos de operación, implementados por diferentes plugins. En este Webinar se expondrán las principales características de OWASP WebScarab, con el desarrollo de ejemplos prácticos..
-</td></tr></table>
-</div></div><div id="Chapter_Meetings" class="section-8 unselected"><div>
-<table style="vertical-align:top;width:90%;background-color:#white;padding:10px;border:1px solid silver;" align="center" cellspacing="5">
-<tr>
-<td colspan="3" align="center" height="30" style="background:#CCCCEE;"> <b>OWASP PERU CHAPTER MEETINGS</b>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#CCCCEE" align="center" height="30"> <b>Ponente</b>
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center" height="30"> <b>Link de Presentación</b>
 </td></tr>
 <tr>
-<td colspan="3" align="center" style="background:#EEEEEE;">
-<h2><span class="mw-headline" id="0x11_OWASP_Per.C3.BA_Chapter_Meeting"><b>0x11 OWASP Perú Chapter Meeting</b></span></h2>
-<p><b>Miércoles 23 de Noviembre</b>
-</p>
-<center> <a href="/index.php/File:Peru_chapter_meeting_nov.png" class="image"><img alt="Peru chapter meeting nov.png" src="/images/d/d9/Peru_chapter_meeting_nov.png" width="1014" height="502" /></a></center>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 9:30 am
+</td>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Análisis de Ransomware, últimos casos y herramientas de protección.
+</td>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Cesar Farro
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> TBD
 </td></tr>
 <tr>
-<td colspan="3" valign="center" bgcolor="#CCCCEE" align="center"> <b>Descripción y Objetivo</b>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 10:30 am
+</td>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> WebAuthn: ¿Llegó el fin de las contraseñas?
+</td>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Alejandro Gonzales
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> TBD
 </td></tr>
 <tr>
-<td colspan="3" valign="left" height="80" bgcolor="#EEEEEE" align="left"> <b>OWASP Chapter Meetings,</b>, son reuniones mensuales donde se difunden los diversos proyectos de seguridad que permitan reforzar los conocimientos e incentiven la investigación y desarrollo que todo profesional de la seguridad requiere.
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 11:30 am
+</td>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Once upon a time ... a csoc?
+</td>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Carlos Ampuero
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> TBD
 </td></tr>
 <tr>
-<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCCCEE" align="center"> <b>Fecha y Hora</b>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 12:30 pm
 </td>
-<td colspan="0" style="width:50%" valign="middle" bgcolor="#CCCCEE" align="center"> <b>Lugar</b>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> Pausa para el Almuerzo
 </td>
-<td colspan="0" style="width:30%" valign="middle" bgcolor="#CCCCEE" align="center"> <b>Forma de registro</b>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#CCEEEE" align="center" height="30">
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> Pausa para el Almuerzo
 </td></tr>
 <tr>
-<td valign="middle" bgcolor="#EEEEEE" align="center"> <b> Miércoles 23 de Noviembre<br /> 7:00 PM </b>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 2:30 pm
 </td>
-<td valign="middle" bgcolor="#EEEEEE" align="left"> <b>Avantica Technologies <br /></b>
-<p>Avenida Andrés Aramburú 1005, Piso 3 - San Isidro (Cruce de Aramburú con Rep de Panamá, al costado del grifo)<b><br /></b>
-Ver Mapa <a rel="nofollow" class="external text" href="https://goo.gl/l9VhsI">Google Maps</a>
-</p>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Reprogramando ZAP
 </td>
-<td valign="middle" bgcolor="#EEEEEE" align="center"> <b> <a rel="nofollow" class="external free" href="https://owaspperu.eventbrite.com">http://owaspperu.eventbrite.com</a> </b>
-</td></tr></table>
-<table style="width:90%" bgcolor="#CCCCEE" align="center">
-<tr>
-<td colspan="0" style="width:20%" valign="middle" height="60" bgcolor="#CCCCEE" align="center"> <b>Tema</b>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Camilo Galdos
 </td>
-<td colspan="0" style="width:15%" valign="middle" height="25" bgcolor="#CCCCEE" align="center"> <b>Expositor</b>
-</td>
-<td colspan="0" style="width:30%" valign="middle" height="15" bgcolor="#CCCCEE" align="center"> <b>Detalles</b>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> TBD
 </td></tr>
 <tr>
-<td colspan="0" style="width:20%" valign="middle" height="60 bgcolor=" align="center">Anatomía de un ataque ransomware
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 3:30 pm
 </td>
-<td colspan="0" style="width:15%" valign="middle" height="25" bgcolor="#EEEEEE" align="center"> <a rel="nofollow" class="external text" href="https://twitter.com/jacppe">Jorge Cordova</a>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Evaluando la Seguridad de AWS
 </td>
-<td colspan="0" style="width:30%" valign="middle" height="15" bgcolor="#EEEEEE" align="left"> <a rel="nofollow" class="external text" href="https://www.owasp.org/images/0/04/OWASP_-_Anatom%C3%ADa_de_un_ataque_ransomware_v2.pdf">Descargar Presentación</a>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Omar Palomino
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> TBD
 </td></tr>
 <tr>
-<td colspan="0" style="width:20%" valign="middle" height="60" bgcolor="#EEEEEE" align="center"> Pentesting con OWASP Zed Attack Proxy (ZAP)
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 4:30 pm
 </td>
-<td colspan="0" style="width:15%" valign="middle" height="25" bgcolor="#EEEEEE" align="center"> <a rel="nofollow" class="external text" href="https://twitter.com/alonso_reydes">Alonso Caballero</a>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> Pausa para Café
 </td>
-<td colspan="0" style="width:30%" valign="middle" height="15" bgcolor="#EEEEEE" align="left"> <a rel="nofollow" class="external text" href="https://www.owasp.org/images/4/43/OWASP_ZAP_Alonso_ReYDeS.pdf">Descargar Presentación</a>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#CCEEEE" align="center" height="30">
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> Pausa para Café
+</td></tr>
+<tr>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 4:45 pm
+</td>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Hacking de APIs y Microservicios
+</td>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> Juan Oliva
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#EEEEEE" align="center" height="30"> TBD
+</td></tr>
+<tr>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> 5:45 pm
+</td>
+<td colspan="0" style="width:25%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> Cierre de Jornada
+</td>
+<td colspan="0" style="width:35%" valign="middle" bgcolor="#CCEEEE" align="center" height="30">
+</td>
+<td colspan="0" style="width:20%" valign="middle" bgcolor="#CCEEEE" align="center" height="30"> Cierre de Jornada
 </td></tr>
 </table>
 
