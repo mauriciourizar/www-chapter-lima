@@ -132,6 +132,15 @@ tags: Peru
 	<img src="assets/images/LATAM_TOUR-2012.JPG">
   </center>
 
+## Eventos 2011
+
+* Owasp Latam Tour 2011 - Perú.
+
+  <center>
+	<img src="assets/images/Latam_logo_2011.jpg">
+  </center>
+
+
 
   
 
