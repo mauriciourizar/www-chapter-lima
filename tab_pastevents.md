@@ -18,7 +18,7 @@ tags: Peru
 
 ![Peru](assets/images/detalles-jornada-2019.png)
 
-<br>
+<br />
 
 ## Eventos 2018
 
@@ -28,7 +28,7 @@ tags: Peru
 <img src="https://pbs.twimg.com/media/DaCL4SXX4AAXmmz?format=jpg&name=900x900">
 </p>
 
-<br>
+<br />
 
 ## Eventos 2017
 
@@ -40,6 +40,7 @@ tags: Peru
 
 ![Peru](assets/images/detalles-jornada-2017.png)
 
+<br />
 
 ## Eventos 2016
 
@@ -52,6 +53,8 @@ tags: Peru
     </ul>
 
 ![Peru](https://pbs.twimg.com/media/CfYdRllWsAAELe4?format=jpg&name=medium)
+
+<br />
 
 
 ## Eventos 2015
@@ -69,6 +72,8 @@ tags: Peru
     </ul>
 
   ![Peru](assets/images/detalles-jornada-2015.png)
+
+  <br />
 
 ## Eventos 2014
 
@@ -90,6 +95,7 @@ tags: Peru
   <center>
 	<img src="assets/images/detalles-jornada-2014-4.png">
   </center>
+  <br />
 
 ## Eventos 2013
 
@@ -134,7 +140,7 @@ tags: Peru
 	<img src="assets/images/LATAM_TOUR-2012.JPG">
   </center>
 
-  <br>
+  <br />
 
 ## Eventos 2011
 
