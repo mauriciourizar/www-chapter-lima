@@ -37,6 +37,7 @@ tags: Peru
 <center>
 	<img src="assets/images/Latam_logo_2017.jpg">
 </center>
+
 ![Peru](assets/images/detalles-jornada-2017.png)
 
 
@@ -44,7 +45,7 @@ tags: Peru
 
 * Owasp Latam Tour 2016 - Perú.
 
-  **TALLERES:**
+  <b>TALLERES</b>
     * Metasploit de la A a la Z en 8 horas (Mauricio Urizar)
     * De 0 a Ninja con Kali Linux (Jaime Andrés Restrepo)
 
