@@ -47,8 +47,27 @@ tags: Peru
 
   <b><br>TALLERES</b>
     <ul>
-    	<li>Metasploit de la A a la Z en 8 horas <b>(Mauricio Urizar)</b>></li>
-    	<li>De 0 a Ninja con Kali Linux <b>(Jaime Andrés Restrepo)</b></li>
+    	<li>Metasploit de la A a la Z en 8 horas <b>(Mauricio Urizar)</b></li>
+    	<li>De 0 a Ninja con Kali Linux <b>(Jaime Andrés Restrepo)<br></b></li>
     </ul>
 
 ![Peru](https://pbs.twimg.com/media/CfYdRllWsAAELe4?format=jpg&name=medium)
+
+
+## Eventos 2015
+
+* Owasp Latam Tour 2015 - Perú.
+
+  <center>
+	<img src="assets/images/Latam_logo_2015.jpg">
+  </center>
+
+  <b><br>TALLERES</b>
+    <ul>    	
+    	<li>De 0 a Ninja con Kali Linux <b>(Jaime Andrés Restrepo)<br></b></li>
+    	<li>Introducción a la Seguridad en Aplicaciones Web <b>(Fabio Cerullo)</b></li>
+    </ul>
+
+  ![Peru](assets/images/detalles-jornada-2015.png)
+
+
