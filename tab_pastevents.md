@@ -40,7 +40,7 @@ tags: Peru
 
 ![Peru](assets/images/detalles-jornada-2017.png)
 
-<br>
+
 <br />
 
 
