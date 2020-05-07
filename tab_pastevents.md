@@ -32,12 +32,17 @@ tags: Peru
 
 * OWASP Latam Tour 2017 - Perú.
 
+<center>
 ![Peru](assets/images/Latam_logo_2017.jpg)
+</center>
 ![Peru](assets/images/detalles-jornada-2017.png)
 
 
 ## Eventos 2016
 
 * Owasp Latam Tour 2016 - Perú.
+  * Talleres:
+    * Metasploit de la A a la Z en 8 horas (Mauricio Urizar)
+    * De 0 a Ninja con Kali Linux (Jaime Andrés Restrepo)
 
 ![Peru](https://pbs.twimg.com/media/CfYdRllWsAAELe4?format=jpg&name=medium)
