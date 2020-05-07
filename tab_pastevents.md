@@ -84,6 +84,9 @@ tags: Peru
   <center>
 	<img src="detalles-jornada-2014-2.png">
   </center>
+  <center>
+	<img src="detalles-jornada-2014-3.png">
+  </center>
 
 
 
