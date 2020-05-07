@@ -87,6 +87,39 @@ tags: Peru
   <center>
 	<img src="assets/images/detalles-jornada-2014-3.png">
   </center>
+  <center>
+	<img src="assets/images/detalles-jornada-2014-4.png">
+  </center>
+
+## Eventos 2013
+
+* Owasp Latam Tour 2013 - Perú.
+
+  <center>
+	<img src="assets/images/Latam_logo_2013.jpg">
+  </center>
+
+  <b><br>TALLERES</b>
+    <ul>    	
+    	<li>Taller de Análisis de malware: Métodos y técnicas - <b>Pablo Ramos (Argentina)<br></b></li>
+    	<li>Taller Practico de Seguridad Web - <b>Jaime Andrés Restrepo Gomez (Colombia)</b></li>
+    	<li>Taller Desarrollo Seguro usando OWASP ESAPI - <b>Fabio Cerullo (Irlanda)</b></li>
+    </ul>
+
+  <center>
+	<img src="assets/images/detalles-jornada-2013-1.png">
+  </center>
+  <center>
+	<img src="assets/images/detalles-jornada-2013-2.png">
+  </center>
+  <center>
+	<img src="assets/images/detalles-jornada-2013-3.png">
+  </center>
+  <center>
+	<img src="assets/images/detalles-jornada-2013-4.png">
+  </center>
+
+  
 
 
 
