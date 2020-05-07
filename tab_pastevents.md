@@ -113,6 +113,7 @@ tags: Peru
     	<li>Taller Practico de Seguridad Web - <b>Jaime Andrés Restrepo Gomez (Colombia)</b></li>
     	<li>Taller Desarrollo Seguro usando OWASP ESAPI - <b>Fabio Cerullo (Irlanda)</b></li>
     </ul>
+    <br />
 
   <center>
 	<img src="assets/images/detalles-jornada-2013-1.png">
