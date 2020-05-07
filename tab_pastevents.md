@@ -79,13 +79,13 @@ tags: Peru
   </center>
 
   <center>
-	<img src="detalles-jornada-2014-1.png">
+	<img src="assets/images/detalles-jornada-2014-1.png">
   </center>
   <center>
-	<img src="detalles-jornada-2014-2.png">
+	<img src="assets/images/detalles-jornada-2014-2.png">
   </center>
   <center>
-	<img src="detalles-jornada-2014-3.png">
+	<img src="assets/images/detalles-jornada-2014-3.png">
   </center>
 
 
