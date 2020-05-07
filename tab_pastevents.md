@@ -47,8 +47,8 @@ tags: Peru
 
   <b><br>TALLERES</b>
     <ul>
-    	<li>Metasploit de la A a la Z en 8 horas (Mauricio Urizar)</li>
-    	<li>De 0 a Ninja con Kali Linux (Jaime Andrés Restrepo)</li>
+    	<li>Metasploit de la A a la Z en 8 horas <b>(Mauricio Urizar)</b>></li>
+    	<li>De 0 a Ninja con Kali Linux <b>(Jaime Andrés Restrepo)</b></li>
     </ul>
 
 ![Peru](https://pbs.twimg.com/media/CfYdRllWsAAELe4?format=jpg&name=medium)
