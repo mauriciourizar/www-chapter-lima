@@ -119,6 +119,20 @@ tags: Peru
 	<img src="assets/images/detalles-jornada-2013-4.png">
   </center>
 
+
+## Eventos 2012
+
+* Owasp Latam Tour 2012 - Perú.
+
+  <center>
+	<img src="assets/images/Latam_logo_2012.jpg">
+  </center>
+
+  <center>
+	<img src="assets/images/LATAM_TOUR-2012.JPG">
+  </center>
+
+
   
 
 
