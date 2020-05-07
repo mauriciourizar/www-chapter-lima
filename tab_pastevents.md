@@ -24,7 +24,9 @@ tags: Peru
 
 * OWASP Latam Tour 2018 - Perú.
 
+<p align="center">
 ![Peru](https://pbs.twimg.com/media/DaCL4SXX4AAXmmz?format=jpg&name=900x900)
+</p>
 
 <br>
 
