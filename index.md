@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP Peru
-tags: Peru
+title: OWASP Lima
+tags: 
 level: 0
 
 region: South America
