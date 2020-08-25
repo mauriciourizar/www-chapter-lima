@@ -22,7 +22,7 @@ Damos la bienvenida a cualquiera que esté interesado en aprender sobre la segur
 
 <p align="justify">
 Si eres apasionado por la seguridad y estás interesado en compartir tus conocimientos o adquirir nuevos, escribemos podrías ser un futuro referente en seguridad, solo debes empezar por algún lugar; Nuestro capítulo de Perú podría ser un buen comienzo. !Te Esperamos!</p>
-##Siguenos##
+## Siguenos
 Mantente informado de todas las actividades que realicemos en el Cápitulo de OWASP Lima Perú:
 <br>
 
@@ -30,9 +30,7 @@ Mantente informado de todas las actividades que realicemos en el Cápitulo de OW
 
 <a href="https://www.facebook.com/OwaspPeru/" rel="nofollow"> <img src="https://image.flaticon.com/icons/png/512/8/8730.png" width="70" height="70">
 
-
-
-<h2>Soporte al Cápitulo</h2>
+## Soporte al Cápitulo</h2>
 <p ALIGN="justify">Si estas interesado en colaborar con la realización de las actividades para el cápitulo, tienes las siguientes alternativas:
 <br>
 <ul>
