@@ -2,8 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Lima
-tags: 
-level: 0
+tags: OWASPPeru
+level: 4
 
 region: South America
 
@@ -22,7 +22,7 @@ Damos la bienvenida a cualquiera que esté interesado en aprender sobre la segur
 
 <p align="justify">
 Si eres apasionado por la seguridad y estás interesado en compartir tus conocimientos o adquirir nuevos, escribemos podrías ser un futuro referente en seguridad, solo debes empezar por algún lugar; Nuestro capítulo de Perú podría ser un buen comienzo. !Te Esperamos!</p>
-<h2>Siguenos</h2>
+##Siguenos##
 Mantente informado de todas las actividades que realicemos en el Cápitulo de OWASP Lima Perú:
 <br>
 
