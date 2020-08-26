@@ -24,7 +24,7 @@ Damos la bienvenida a cualquiera que esté interesado en aprender sobre la segur
 Si eres apasionado por la seguridad y estás interesado en compartir tus conocimientos o adquirir nuevos, escribemos podrías ser un futuro referente en seguridad, solo debes empezar por algún lugar; Nuestro capítulo de Perú podría ser un buen comienzo. !Te Esperamos!</p>
 
 
-## Soporte al Cápitulo</h2>
+## Soporte al Cápitulo
 <p ALIGN="justify">Si estas interesado en colaborar con la realización de las actividades para el cápitulo, tienes las siguientes alternativas:
 <br>
 <ul>
