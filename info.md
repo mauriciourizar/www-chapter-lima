@@ -1,6 +1,8 @@
 ### Redes Sociales
 Mantente informado de todas las actividades que realicemos en el Cápitulo de OWASP Lima Perú:
 
+* [Meetup](https://www.meetup.com/OWASP-Lima-Meetup-Group/)
+
 * <a href="https://twitter.com/owasp_peru" rel="nofollow"> <img src="https://cdn.icon-icons.com/icons2/1/PNG/128/social_Twitter_38.png" width="70" height="70">
 [Twitter](https://twitter.com/owasp_peru)
  
