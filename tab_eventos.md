@@ -7,7 +7,7 @@ tags: example-tag
 ---
 
 
-# Chapter Sponsors
+# Chapter Supporters
 
 This chapter's yearly activity is being supported by the generous
 sponsorship of the following companies:
