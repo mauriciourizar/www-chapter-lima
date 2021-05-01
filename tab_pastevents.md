@@ -12,9 +12,7 @@ tags: Peru
 ## Eventos 2020 
 
 ### OWASP Chapter Meeting Agosto
-
-### Inscripciones:  https://owasplima.eventbrite.com
-
+* Jueves, August 27, 2020 - 7:00 PM – 10:00 PM
 * Reunión mensual de OWASP Lima Peru
 
 <h3> Net and privacy - Melissa Nole Soto  (@meli_nsoto)</h3>
