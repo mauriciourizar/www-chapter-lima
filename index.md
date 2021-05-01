@@ -12,7 +12,7 @@ region: South America
 
 <p align="center">
   <br />
-  <img src="assets/images/logo.jpg">
+  <img src="assets/images/OWASP_lima_2020.png">
 </p>
 <br />
 <p align="justify">
