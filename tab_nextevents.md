@@ -13,3 +13,4 @@ tags: Peru
 
 ### TBD
 
+{% include chapter_events.html group=page.meetup-group %}
