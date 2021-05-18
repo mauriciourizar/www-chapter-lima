@@ -34,3 +34,6 @@ Si eres apasionado por la seguridad y estás interesado en compartir tus conocim
   <li> Expositor.</li>
   <li> Difusión y participación de actividades.</li>
 </ul>
+
+
+{% include chapter_events.html group=page.meetup-group %}
