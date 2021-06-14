@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Lima
 tags: OWASPPeru
-meetup group: OWASP-Lima-Meetup-Group
+meetup-group: OWASP-Lima-Meetup-Group
 level: 4
 
 region: South America
