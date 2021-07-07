@@ -15,6 +15,8 @@ tags: Peru
 * Jueves, August 27, 2020 - 7:00 PM – 10:00 PM
 * Reunión mensual de OWASP Lima Peru
 
+Eventbrite link: https://www.eventbrite.com/e/owasp-chapter-meeting-agosto-tickets-117476694957
+
 <h3> Net and privacy - Melissa Nole Soto  (@meli_nsoto)</h3>
 Melissa Nole es Ingeniera informática graduada de la pontificia universidad católica del Perú, con más de 9 años de experiencia en el campo de la seguridad. Soy miembro de diversas comunidades que promueven motivar a la mujer en el campo tecnológico
 
