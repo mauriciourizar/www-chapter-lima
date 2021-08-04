@@ -9,9 +9,21 @@ tags: Peru
 
 ---
 
-## Eventos 2020 
+## Eventos 2021
+### OWASP Chapter Meeting Julio
+Jueves, Julio 22 2021 - 7:00 PM – 10:00 PM
+Reunión mensual de OWASP Lima Peru
 
-### OWASP Chapter Meeting Agosto
+* OWASP SAMM - Aleida Pérez (México)
+La necesidad de planificar e implementar una buena estrategia de seguridad de software es uno de los tópicos más populares en la actualidad.
+Esta plática tiene como finalidad entender el Modelo SAMM (Software Assurance Maturity Model), diseñar un plan adecuado a las necesidades de cada organización, la aplicación del modelo de aseguramiento y las ventajas de mantener esta práctica constante.
+
+* BlackBox Crypto Testing - Cesar Neira (Perú)
+Description: La criptografía es considerada por muchos una bala de plata para resolver fallos de seguridad. Esta charla pretende romper este mito. Se mostrará como analizar y explotar, desde un enfoque de caja negra, aplicaciones web que hacen mal uso de la criptografía
+
+## Eventos 2020
+###  OWASP Chapter Meeting Agosto
+
 * Jueves, August 27, 2020 - 7:00 PM – 10:00 PM
 * Reunión mensual de OWASP Lima Peru
 
