@@ -13,7 +13,7 @@ tags: Peru
 
 ### Proyecto OWASP: Asegurando tus aplicaciones. 
 Los proyectos, guías y herramientas para protegerte
-En esta reunión se explicará de manera dinámica los diversos proyectos de OWASP y como pueden ayudarte en el SLDC
+En esta reunión se explicará de manera dinámica los diversos proyectos de OWASP y como pueden ayudarte en el SLDC.
 
 Speakers : <br>
 Fernando Flores <br>
